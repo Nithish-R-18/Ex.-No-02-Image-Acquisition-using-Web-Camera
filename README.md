@@ -1,10 +1,10 @@
 # Image Acquisition Using Web Camera
 
-*Name:* NITHISH R
+## Name: NITHISH R
 
-*Register Number:* 212225230202 
+## Register Number: 212225230202 
 
-*Experiment:* Image Handling and Pixel Transformations Using OpenCV
+## Experiment: Image Acquisition Using Web Camera
 
 ---
 
